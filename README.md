@@ -17,6 +17,7 @@ A low-cost, DIY portable Digital Storage Oscilloscope (DSO) designed for student
 |   └── esp32_dso.ino        # ESP32 C/C++ source code (Interrupt & ADC logic)
 │   ├── python_dso.py            # Python host script (PyQtGraph GUI & serial parser)
 │   └── requirements.txt         # Python dependencies
+├── setup                        # hardware setup and flowchart
 ├── docs/                        
 │   └── Portable_DSO_Presentation.pptx # Project presentation and  demo video
 ├── .gitignore                   # Git ignore file for Python environments and C++ builds
